@@ -46,6 +46,11 @@
 *::after {
   box-sizing: border-box;
 }
+@media (mx-md-auto) {
+  .btn {
+  display: none;
+  }
+  }
 
 html {
   font-family: sans-serif;
