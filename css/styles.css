@@ -10281,7 +10281,8 @@ form .row:first-child .floating-label-form-group {
     display: none;
   }
   #gmail{
-    font-size: 2em;
+    max-width: 15px;
+    margin-right: 0;
   }
 
 }
