@@ -10280,6 +10280,10 @@ form .row:first-child .floating-label-form-group {
   #logo{
     display: none;
   }
+  #gmail{
+    font-size: 2em;
+  }
+
 }
 
 .whatsapp {
@@ -10304,3 +10308,4 @@ form .row:first-child .floating-label-form-group {
   transform: translateY(-30px);
   transition: 0.6s;
 }
+
