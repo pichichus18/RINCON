@@ -10276,7 +10276,8 @@ form .row:first-child .floating-label-form-group {
 
 }
 
-#centro:hover{
-  transform: translateZ(50px);
+@media (max-width:600px){
+  #logo{
+    display: none;
+  }
 }
-
