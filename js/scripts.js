@@ -65,6 +65,6 @@
       });
     });
 
-
+    $('gmail_a').quickfit();
   })(jQuery); // End of use strict
   
