@@ -10329,6 +10329,6 @@ form .row:first-child .floating-label-form-group {
 
 @media(max-width:600px){
   #gmail{
-    font-size: 0.35em;
+    font-size: 0.1em;
   }
 }
