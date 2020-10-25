@@ -11317,6 +11317,8 @@ form .row:first-child .floating-label-form-group {
 #gmail {
   font-size: 0.5em;
 }
+
+
 #gmail_img{
   margin-right: 0.5em;
   max-width: 1em;
@@ -11324,7 +11326,10 @@ form .row:first-child .floating-label-form-group {
 
 @media(max-width:500px) {
   #gmail_img {
-    margin-right: 0px;
-    max-width: 0.6em;
+    margin-right: 0.4em;
+    max-width: 0.8em;
+  }
+  #gmail{
+    font-size: 0.28em;
   }
 }
