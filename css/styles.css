@@ -11323,4 +11323,8 @@ form .row:first-child .floating-label-form-group {
 @media (max-width: 576px) {
   #logo {
     display: none;
-  }}
+  }
+  #gmail_img{
+    margin-right: 0.05em;
+  }
+}
