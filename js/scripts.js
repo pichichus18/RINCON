@@ -65,11 +65,6 @@
       });
     });
 
-    $(function(){
-      setTimeout(function(){
-        $('divider-custom-line').show();
-      },3000);
-   });
-  
+
   })(jQuery); // End of use strict
   
