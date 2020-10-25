@@ -10280,21 +10280,9 @@ form .row:first-child .floating-label-form-group {
   #logo{
     display: none;
   }
-  #gmail{
-    max-width: 15px;
-    margin-right: 0;
-  }
 
 }
 
-@media (max-width:1600px){
-
-  #gmail{
-    max-width: 0.1 em;
-    margin-right: 0;
-  }
-
-}
 
 .whatsapp {
   position:fixed;
