@@ -11320,7 +11320,7 @@ form .row:first-child .floating-label-form-group {
 
 
 
-@media (max-width: 576px) {
+@media (max-width: 600px) {
   #logo {
     display: none;
   }
