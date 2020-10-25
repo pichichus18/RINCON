@@ -64,6 +64,12 @@
         $(this).removeClass("floating-label-form-group-with-focus");
       });
     });
+
+    $(function(){
+      setTimeout(function(){
+        $('divider-custom-line').show();
+      },3000);
+   });
   
   })(jQuery); // End of use strict
   
