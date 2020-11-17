@@ -11273,9 +11273,9 @@ form .row:first-child .floating-label-form-group {
   transition: 0.2s;
 }
 
-.titulo:hover {
+/*.titulo:hover {
   font-size: 3.2em;
-}
+}*/
 
 
 
@@ -11294,7 +11294,7 @@ form .row:first-child .floating-label-form-group {
   font-size: 30px;
 
   box-shadow: 0 0 0 0.4rem rgba(26, 188, 156, 0.25);
-  z-index: 100;
+  z-index: 1;
 }
 
 .whatsapp-icon {
