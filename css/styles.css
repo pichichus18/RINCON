@@ -11327,4 +11327,7 @@ form .row:first-child .floating-label-form-group {
   #gmail_img{
     margin-right: 5px;
   }
+  #wpp {
+    display: none;
+  }
 }
